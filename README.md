@@ -1,2 +1,2 @@
 # Person-Following-Robot
-A robot that follows people idk
+A robot that follows people around
